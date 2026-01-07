@@ -1,0 +1,171 @@
+
+> ejetaragua@1.0.0 build
+> next build
+
+  ▲ Next.js 14.2.35
+
+   Creating an optimized production build ...
+Failed to compile.
+
+./app/guias/alto-falante/frequencia-ejecao/page.tsx
+Error: 
+  [31mx[0m Expression expected
+    ,-[[36;1;4mc:\Users\Diego\Desktop\sistema2\app\app\guias\alto-falante\frequencia-ejecao\page.tsx[0m:58:1]
+ [2m58[0m |   const breadcrumbSchema = createBreadcrumbSchema(breadcrumbs)
+ [2m59[0m | 
+ [2m60[0m |   return (
+ [2m61[0m |     <>
+    : [31;1m     ^[0m
+ [2m62[0m |       <script
+ [2m63[0m |         type="application/ld+json"
+ [2m64[0m |         dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }}
+    `----
+
+  [31mx[0m Expected ',', got 'type'
+    ,-[[36;1;4mc:\Users\Diego\Desktop\sistema2\app\app\guias\alto-falante\frequencia-ejecao\page.tsx[0m:64:1]
+ [2m64[0m |         dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }}
+ [2m65[0m |       />
+ [2m66[0m |       <script
+ [2m67[0m |         type="application/ld+json"
+    : [31;1m        ^^^^[0m
+ [2m68[0m |         dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
+ [2m69[0m |       />
+ [2m70[0m |       <script
+    `----
+
+Caused by:
+    Syntax Error
+
+Import trace for requested module:
+./app/guias/alto-falante/frequencia-ejecao/page.tsx
+
+./app/guias/alto-falante/page.tsx
+Error: 
+  [31mx[0m Expression expected
+    ,-[[36;1;4mc:\Users\Diego\Desktop\sistema2\app\app\guias\alto-falante\page.tsx[0m:85:1]
+ [2m85[0m |   const breadcrumbSchema = createBreadcrumbSchema(breadcrumbs)
+ [2m86[0m | 
+ [2m87[0m |   return (
+ [2m88[0m |     <>
+    : [31;1m     ^[0m
+ [2m89[0m |       <script
+ [2m90[0m |         type="application/ld+json"
+ [2m91[0m |         dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }}
+    `----
+
+  [31mx[0m Expected ',', got 'type'
+    ,-[[36;1;4mc:\Users\Diego\Desktop\sistema2\app\app\guias\alto-falante\page.tsx[0m:91:1]
+ [2m91[0m |         dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }}
+ [2m92[0m |       />
+ [2m93[0m |       <script
+ [2m94[0m |         type="application/ld+json"
+    : [31;1m        ^^^^[0m
+ [2m95[0m |         dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
+ [2m96[0m |       />
+ [2m97[0m |       <script
+    `----
+
+Caused by:
+    Syntax Error
+
+Import trace for requested module:
+./app/guias/alto-falante/page.tsx
+
+./app/guias/problemas/quanto-custa-consertar/page.tsx
+Error: 
+  [31mx[0m Expression expected
+    ,-[[36;1;4mc:\Users\Diego\Desktop\sistema2\app\app\guias\problemas\quanto-custa-consertar\page.tsx[0m:58:1]
+ [2m58[0m |   const breadcrumbSchema = createBreadcrumbSchema(breadcrumbs)
+ [2m59[0m | 
+ [2m60[0m |   return (
+ [2m61[0m |     <>
+    : [31;1m     ^[0m
+ [2m62[0m |       <script
+ [2m63[0m |         type="application/ld+json"
+ [2m64[0m |         dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }}
+    `----
+
+  [31mx[0m Expected ',', got 'type'
+    ,-[[36;1;4mc:\Users\Diego\Desktop\sistema2\app\app\guias\problemas\quanto-custa-consertar\page.tsx[0m:64:1]
+ [2m64[0m |         dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }}
+ [2m65[0m |       />
+ [2m66[0m |       <script
+ [2m67[0m |         type="application/ld+json"
+    : [31;1m        ^^^^[0m
+ [2m68[0m |         dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
+ [2m69[0m |       />
+ [2m70[0m |       <script
+    `----
+
+Caused by:
+    Syntax Error
+
+Import trace for requested module:
+./app/guias/problemas/quanto-custa-consertar/page.tsx
+
+./app/guias/som-ejecao-agua/danifica-speaker/page.tsx
+Error: 
+  [31mx[0m Expression expected
+    ,-[[36;1;4mc:\Users\Diego\Desktop\sistema2\app\app\guias\som-ejecao-agua\danifica-speaker\page.tsx[0m:58:1]
+ [2m58[0m |   const breadcrumbSchema = createBreadcrumbSchema(breadcrumbs)
+ [2m59[0m | 
+ [2m60[0m |   return (
+ [2m61[0m |     <>
+    : [31;1m     ^[0m
+ [2m62[0m |       <script
+ [2m63[0m |         type="application/ld+json"
+ [2m64[0m |         dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }}
+    `----
+
+  [31mx[0m Expected ',', got 'type'
+    ,-[[36;1;4mc:\Users\Diego\Desktop\sistema2\app\app\guias\som-ejecao-agua\danifica-speaker\page.tsx[0m:64:1]
+ [2m64[0m |         dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }}
+ [2m65[0m |       />
+ [2m66[0m |       <script
+ [2m67[0m |         type="application/ld+json"
+    : [31;1m        ^^^^[0m
+ [2m68[0m |         dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
+ [2m69[0m |       />
+ [2m70[0m |       <script
+    `----
+
+Caused by:
+    Syntax Error
+
+Import trace for requested module:
+./app/guias/som-ejecao-agua/danifica-speaker/page.tsx
+
+./app/guias/som-ejecao-agua/frequencia-ideal/page.tsx
+Error: 
+  [31mx[0m Expression expected
+    ,-[[36;1;4mc:\Users\Diego\Desktop\sistema2\app\app\guias\som-ejecao-agua\frequencia-ideal\page.tsx[0m:66:1]
+ [2m66[0m |   const breadcrumbSchema = createBreadcrumbSchema(breadcrumbs)
+ [2m67[0m | 
+ [2m68[0m |   return (
+ [2m69[0m |     <>
+    : [31;1m     ^[0m
+ [2m70[0m |       <script
+ [2m71[0m |         type="application/ld+json"
+ [2m72[0m |         dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }}
+    `----
+
+  [31mx[0m Expected ',', got 'type'
+    ,-[[36;1;4mc:\Users\Diego\Desktop\sistema2\app\app\guias\som-ejecao-agua\frequencia-ideal\page.tsx[0m:72:1]
+ [2m72[0m |         dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }}
+ [2m73[0m |       />
+ [2m74[0m |       <script
+ [2m75[0m |         type="application/ld+json"
+    : [31;1m        ^^^^[0m
+ [2m76[0m |         dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
+ [2m77[0m |       />
+ [2m78[0m |       <script
+    `----
+
+Caused by:
+    Syntax Error
+
+Import trace for requested module:
+./app/guias/som-ejecao-agua/frequencia-ideal/page.tsx
+
+
+> Build failed because of webpack errors

@@ -1,0 +1,78 @@
+# MISSING ROUTES ANALYSIS
+# Date: 2026-01-06
+
+## EXISTING ROUTES (4):
+✅ /
+✅ /guias
+✅ /guias/celular-molhado
+✅ /guias/iphone
+
+## MISSING PILLAR PAGES (6):
+❌ /guias/android
+❌ /guias/alto-falante
+❌ /guias/som-ejecao-agua
+❌ /guias/prevencao
+❌ /guias/solucoes
+❌ /guias/problemas
+
+## MISSING SUPPORTING PAGES (39):
+
+### Celular Molhado (7):
+❌ /guias/celular-molhado/o-que-fazer
+❌ /guias/celular-molhado/como-secar
+❌ /guias/celular-molhado/arroz-mito
+❌ /guias/celular-molhado/quando-ligar
+❌ /guias/celular-molhado/primeiros-socorros
+❌ /guias/celular-molhado/agua-salgada
+❌ /guias/celular-molhado/assistencia-tecnica
+
+### iPhone (6):
+❌ /guias/iphone/ejetar-agua
+❌ /guias/iphone/modo-expulsao-agua
+❌ /guias/iphone/alto-falante-molhado
+❌ /guias/iphone/resistencia-agua
+❌ /guias/iphone/garantia-agua
+❌ /guias/iphone/modelos-resistentes
+
+### Android (7):
+❌ /guias/android/ejetar-agua
+❌ /guias/android/som-tirar-agua
+❌ /guias/android/alto-falante-entupido
+❌ /guias/android/resistencia-agua
+❌ /guias/android/samsung-molhado
+❌ /guias/android/xiaomi-molhado
+❌ /guias/android/motorola-molhado
+
+### Alto-Falante (5):
+❌ /guias/alto-falante/como-limpar
+❌ /guias/alto-falante/som-abafado
+❌ /guias/alto-falante/frequencia-ejecao
+❌ /guias/alto-falante/danificado
+❌ /guias/alto-falante/prevencao
+
+### Som de Ejeção (4):
+❌ /guias/som-ejecao-agua/como-funciona
+❌ /guias/som-ejecao-agua/frequencia-ideal
+❌ /guias/som-ejecao-agua/quantas-vezes
+❌ /guias/som-ejecao-agua/funciona-mesmo
+
+### Prevenção (4):
+❌ /guias/prevencao/capas-impermeaveis
+❌ /guias/prevencao/cuidados-praia
+❌ /guias/prevencao/cuidados-piscina
+❌ /guias/prevencao/ip68-explicado
+
+### Soluções (4):
+❌ /guias/solucoes/metodos-caseiros
+❌ /guias/solucoes/aspirador-po
+❌ /guias/solucoes/alcool-isopropilico
+❌ /guias/solucoes/silica-gel
+
+### Problemas (5):
+❌ /guias/problemas/microfone-nao-funciona
+❌ /guias/problemas/som-baixo
+❌ /guias/problemas/tela-manchada
+❌ /guias/problemas/nao-liga
+❌ /guias/problemas/camera-embacada
+
+## TOTAL MISSING: 45 pages

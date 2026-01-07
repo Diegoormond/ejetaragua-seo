@@ -1,0 +1,22 @@
+
+> ejetaragua@1.0.0 build
+> next build
+
+  ▲ Next.js 14.2.35
+
+   Creating an optimized production build ...
+ ✓ Compiled successfully
+   Linting and checking validity of types ...
+Failed to compile.
+
+./app/guias/celular-molhado/o-que-fazer/page.tsx:268:34
+Type error: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+
+[0m [90m 266 |[39m               [33m<[39m[33mul[39m className[33m=[39m[32m"space-y-2 text-orange-900"[39m[33m>[39m[0m
+[0m [90m 267 |[39m                 [33m<[39m[33mli[39m[33m>[39m[33mÁgua[39m salgada (mar[33m/[39mpraia) [33m-[39m corrosão acontece em horas[33m<[39m[33m/[39m[33mli[39m[33m>[39m[0m
+[0m[31m[1m>[22m[39m[90m 268 |[39m                 [33m<[39m[33mli[39m[33m>[39m[33mÁgua[39m quente ([33m>[39m[35m40[39m°C) [33m-[39m danifica componentes quimicamente[33m<[39m[33m/[39m[33mli[39m[33m>[39m[0m
+[0m [90m     |[39m                                  [31m[1m^[22m[39m[0m
+[0m [90m 269 |[39m                 [33m<[39m[33mli[39m[33m>[39m[33mProdutos[39m químicos (cloro[33m,[39m combustível[33m,[39m etc[33m.[39m) [33m-[39m dissolve componentes[33m<[39m[33m/[39m[33mli[39m[33m>[39m[0m
+[0m [90m 270 |[39m                 [33m<[39m[33mli[39m[33m>[39m[33mCelular[39m esquentou anormalmente ([33m>[39m[35m50[39m°C) [33m-[39m indica curto[33m-[39mcircuito[33m<[39m[33m/[39m[33mli[39m[33m>[39m[0m
+[0m [90m 271 |[39m                 [33m<[39m[33mli[39m[33m>[39m[33mCheiro[39m estranho[33m/[39mqueimado [33m-[39m dano grave na placa[33m<[39m[33m/[39m[33mli[39m[33m>[39m[0m
+Next.js build worker exited with code: 1 and signal: null
