@@ -348,7 +348,7 @@ export default function Page() {
               <li>
                 <strong>1. Minimize o Dano Imediatamente</strong>
                 <ul className="mt-2 space-y-1">
-                  <li>• Use nossa <a href="/" className="text-primary font-semibold hover:underline">ferramenta de ejeção de água</a></li>
+                  <li>• Use nossa <a href="https://www.ejetaragua.com/?utm_source=guias&utm_medium=seo&utm_campaign=cta" className="text-primary font-semibold hover:underline">ferramenta de ejeção de água</a></li>
                   <li>• Seque o exterior completamente</li>
                   <li>• NÃO carregue por 24 horas</li>
                 </ul>
