@@ -211,7 +211,7 @@ export default function GuiasIndex() {
             Use nossa ferramenta gratuita que remove água do alto-falante em 2-5 minutos
           </p>
           <Link
-            href="/"
+            href="https://www.ejetaragua.com/?utm_source=guias&utm_medium=seo&utm_campaign=cta"
             className="inline-block bg-white text-primary font-semibold px-8 py-4 rounded-lg hover:bg-gray-100 transition shadow-lg text-lg"
           >
             Usar Ferramenta Gratuita
@@ -228,7 +228,7 @@ export default function GuiasIndex() {
               </h3>
               <p className="text-gray-600">
                 Comece com o <Link href="/guias/celular-molhado" className="text-primary font-semibold hover:underline">guia completo de Celular Molhado</Link> para
-                entender as ações imediatas. Depois, use a <Link href="/" className="text-primary font-semibold hover:underline">ferramenta de ejeção</Link> para
+                entender as ações imediatas. Depois, use a <Link href="https://www.ejetaragua.com/?utm_source=guias&utm_medium=seo&utm_campaign=cta" className="text-primary font-semibold hover:underline">ferramenta de ejeção</Link> para
                 remover água do alto-falante rapidamente.
               </p>
             </div>
