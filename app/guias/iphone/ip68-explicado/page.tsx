@@ -249,7 +249,7 @@ export default function Page() {
             </h2>
             <ol className="text-gray-700 space-y-3 mb-4">
               <li><strong>1. Seque IMEDIATAMENTE:</strong> Toalha macia em tudo - tela, speakers, portas</li>
-              <li><strong>2. Ejete a água:</strong> Use nossa <a href="/" className="text-primary font-semibold">ferramenta de ejeção 165Hz</a> (3-5 ciclos)</li>
+              <li><strong>2. Ejete a água:</strong> Use nossa <a href="https://www.ejetaragua.com/?utm_source=guias&utm_medium=seo&utm_campaign=cta" className="text-primary font-semibold">ferramenta de ejeção 165Hz</a> (3-5 ciclos)</li>
               <li><strong>3. NÃO carregue por 24h:</strong> Mesmo que apareça aviso "Líquido detectado"</li>
               <li><strong>4. Deixe secar 48h:</strong> Local ventilado, temperatura ambiente, speaker para baixo</li>
               <li><strong>5. Se água salgada:</strong> Enxague com água doce e procure técnico dentro de 24h</li>
