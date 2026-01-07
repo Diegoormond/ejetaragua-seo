@@ -512,7 +512,7 @@ export default function Page() {
               <li>
                 <strong>2. Ejete Água do Alto-Falante</strong>
                 <ul className="mt-2 space-y-1">
-                  <li>• Use nossa <a href="/" className="text-primary font-semibold hover:underline">ferramenta de ejeção</a></li>
+                  <li>• Use nossa <a href="https://www.ejetaragua.com/?utm_source=guias&utm_medium=seo&utm_campaign=cta" className="text-primary font-semibold hover:underline">ferramenta de ejeção</a></li>
                   <li>• Volume máximo, 3-5 repetições</li>
                   <li>• Observe gotículas saindo</li>
                 </ul>
