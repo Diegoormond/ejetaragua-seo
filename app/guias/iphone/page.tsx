@@ -163,7 +163,7 @@ export default function iPhonePage() {
           <ol className="space-y-2 mb-0">
             <li>Desligue imediatamente (não teste se funciona)</li>
             <li>Seque o exterior com toalha macia</li>
-            <li>Use a <a href="/" className="text-primary font-semibold hover:underline">ferramenta de ejeção de água</a> (volume máximo, 3-5 vezes)</li>
+            <li>Use a <a href="https://www.ejetaragua.com/?utm_source=guias&utm_medium=seo&utm_campaign=cta" className="text-primary font-semibold hover:underline">ferramenta de ejeção de água</a> (volume máximo, 3-5 vezes)</li>
             <li>Posicione com speaker para baixo por 1-2 horas</li>
             <li>NÃO carregue por 24 horas</li>
             <li>Se água salgada (praia/mar), procure assistência técnica imediatamente</li>
@@ -289,7 +289,7 @@ export default function iPhonePage() {
           </h3>
 
           <ol className="space-y-3">
-            <li>Acesse a <a href="/" className="text-primary font-semibold hover:underline">ferramenta de ejeção</a> no seu iPhone</li>
+            <li>Acesse a <a href="https://www.ejetaragua.com/?utm_source=guias&utm_medium=seo&utm_campaign=cta" className="text-primary font-semibold hover:underline">ferramenta de ejeção</a> no seu iPhone</li>
             <li>Aumente o volume do iPhone para 80-100%</li>
             <li>Posicione o iPhone com o alto-falante inferior voltado para baixo</li>
             <li>Toque no botão para iniciar a ejeção (30 segundos)</li>
