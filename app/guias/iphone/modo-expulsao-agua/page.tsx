@@ -147,7 +147,7 @@ export default function Page() {
                 💡 Dica: Use a Ferramenta Web Se Estiver Com Pressa
               </p>
               <p className="text-yellow-900 mb-0">
-                Se seu iPhone molhou AGORA, não perca tempo criando atalho. Use nossa <a href="/" className="text-primary font-semibold hover:underline">ferramenta de ejeção</a> imediatamente.
+                Se seu iPhone molhou AGORA, não perca tempo criando atalho. Use nossa <a href="https://www.ejetaragua.com/?utm_source=guias&utm_medium=seo&utm_campaign=cta" className="text-primary font-semibold hover:underline">ferramenta de ejeção</a> imediatamente.
                 Você pode criar o atalho depois para ter acesso rápido no futuro.
               </p>
             </div>
@@ -431,7 +431,7 @@ export default function Page() {
             </div>
 
             <p className="text-gray-700 leading-relaxed mb-4">
-              <strong>Recomendação:</strong> Use nossa <a href="/" className="text-primary font-semibold hover:underline">ferramenta web</a> para
+              <strong>Recomendação:</strong> Use nossa <a href="https://www.ejetaragua.com/?utm_source=guias&utm_medium=seo&utm_campaign=cta" className="text-primary font-semibold hover:underline">ferramenta web</a> para
               primeira emergência (sem setup). Depois crie o atalho Siri para acesso rápido futuro ("Ei Siri, ejetar água").
             </p>
           </section>
