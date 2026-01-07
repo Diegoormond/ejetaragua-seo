@@ -224,7 +224,7 @@ export default function Page() {
               Execução:
             </h3>
             <ol className="text-gray-700 space-y-2 mb-4">
-              <li><strong>1.</strong> Acesse a <a href="/" className="text-primary font-semibold hover:underline">ferramenta de ejeção</a></li>
+              <li><strong>1.</strong> Acesse a <a href="https://www.ejetaragua.com/?utm_source=guias&utm_medium=seo&utm_campaign=cta" className="text-primary font-semibold hover:underline">ferramenta de ejeção</a></li>
               <li><strong>2.</strong> Posicione iPhone com speaker para baixo (45°)</li>
               <li><strong>3.</strong> Toque no botão de ejeção</li>
               <li><strong>4.</strong> Som de 165Hz toca por 30 segundos</li>
