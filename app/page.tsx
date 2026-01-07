@@ -6,8 +6,8 @@ export const metadata: Metadata = {
   title: 'Guias Ejetar Água - Central de Conhecimento',
   description: 'Central de guias completos sobre como ejetar água do celular, recuperar dispositivos molhados e proteger seu smartphone. Artigos especializados para iPhone e Android.',
   alternates: {
-    canonical: 'https://ejetaragua-seo.vercel.app',
-  },
+  canonical: 'https://www.ejetaragua.com/guias',
+},
   openGraph: {
     title: 'Guias Ejetar Água - Central de Conhecimento',
     description: 'Guias completos sobre recuperação de celulares molhados, ejeção de água e proteção de smartphones.',
