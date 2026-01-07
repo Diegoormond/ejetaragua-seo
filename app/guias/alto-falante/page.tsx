@@ -78,7 +78,7 @@ export default function Page() {
   const articleSchema = createArticleSchema({
     title: 'Alto-Falante Molhado: Guia Completo 2026',
     description: 'Celular com som abafado? Guia definitivo: ejeção por 165Hz, limpeza segura, diagnóstico de danos, quando procurar técnico.',
-    url: '/guias/alto-falante',
+    url: 'https://www.ejetaragua.com/guias/alto-falante',
     datePublished: '2026-01-06',
     dateModified: '2026-01-06',
   })
