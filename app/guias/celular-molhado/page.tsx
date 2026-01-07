@@ -10,7 +10,7 @@ export const metadata: Metadata = {
   title: 'Celular Molhado: O Que Fazer em 2026 (Guia Completo + Mitos)',
   description: 'Celular caiu na água? Guia completo com o que fazer AGORA, mitos perigosos (arroz!), e como salvar seu aparelho. Método científico comprovado.',
   alternates: {
-    canonical: '/guias/celular-molhado',
+    canonical: 'https://www.ejetaragua.com/guias/celular-molhado',
   },
   openGraph: {
     title: 'Celular Molhado: O Que Fazer - Guia Completo 2026',
