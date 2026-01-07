@@ -75,6 +75,11 @@ const relatedLinks = [
     description: 'Método passo a passo com som 165Hz e atalho Siri Shortcuts',
   },
   {
+    title: 'Water Eject Atalho no iPhone',
+    url: '/guias/iphone/water-eject-atalho',
+    description: 'Como criar atalho Water Eject seguro com Siri Shortcuts',
+  },
+  {
     title: 'Modo Expulsão de Água (Atalho iOS)',
     url: '/guias/iphone/modo-expulsao-agua',
     description: 'Como instalar e configurar atalho automático de ejeção',
