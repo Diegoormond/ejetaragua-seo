@@ -17,8 +17,6 @@ export default function CTABox({
       <p className="text-blue-50 mb-6 max-w-2xl mx-auto">{description}</p>
       <a
         href={buttonUrl}
-        target="_blank"
-        rel="noopener noreferrer"
         className="inline-block bg-white text-primary font-semibold px-8 py-3 rounded-lg hover:bg-gray-100 transition shadow-lg"
       >
         {buttonText}
