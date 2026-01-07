@@ -5,8 +5,8 @@ export const metadata: Metadata = {
   title: 'Guias Completos: Celular Molhado, iPhone, Android | Ejetar Água',
   description: 'Todos os guias sobre celular molhado, ejeção de água, iPhone, Android, alto-falante e mais. Aprenda a proteger e recuperar seu celular.',
   alternates: {
-    canonical: '/guias',
-  },
+  canonical: 'https://www.ejetaragua.com/guias',
+},
 }
 
 const categories = [
