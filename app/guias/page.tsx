@@ -5,8 +5,8 @@ export const metadata: Metadata = {
   title: 'Guias Completos: Celular Molhado, iPhone, Android | Ejetar Água',
   description: 'Todos os guias sobre celular molhado, ejeção de água, iPhone, Android, alto-falante e mais. Aprenda a proteger e recuperar seu celular.',
   alternates: {
-  canonical: 'https://www.ejetaragua.com/guias',
-},
+    canonical: '/guias',
+  },
 }
 
 const categories = [
@@ -34,6 +34,7 @@ const categories = [
     color: 'gray',
     guides: [
       { title: 'Como Ejetar Água do iPhone', url: '/guias/iphone/ejetar-agua' },
+      { title: 'Water Eject Atalho no iPhone', url: '/guias/iphone/water-eject-atalho' },
       { title: 'Modo Expulsão de Água (Atalho)', url: '/guias/iphone/modo-expulsao-agua' },
       { title: 'Alto-Falante iPhone Molhado', url: '/guias/iphone/alto-falante-molhado' },
       { title: 'Resistência à Água por Modelo', url: '/guias/iphone/resistencia-agua' },
@@ -78,6 +79,7 @@ const categories = [
     description: 'Como funciona e como usar ondas sonoras',
     color: 'cyan',
     guides: [
+      { title: 'Water Eject: O Que É, Como Funciona e Quando Usar', url: '/guias/water-eject' },
       { title: 'Como Funciona o Som de Ejeção', url: '/guias/som-ejecao-agua/como-funciona' },
       { title: 'Frequência Ideal: 165Hz', url: '/guias/som-ejecao-agua/frequencia-ideal' },
       { title: 'Quantas Vezes Usar', url: '/guias/som-ejecao-agua/quantas-vezes' },
