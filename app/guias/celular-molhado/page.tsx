@@ -217,7 +217,7 @@ export default function CelularMolhadoPage() {
             Etapa 2: Ejeção Por Ondas Sonoras (2-5 minutos)
           </h3>
           <p>
-            <strong>Este é o método mais eficaz e rápido.</strong> Use nossa <a href="/" className="text-primary font-semibold hover:underline">ferramenta de ejeção de água</a> que
+            <strong>Este é o método mais eficaz e rápido.</strong> Use nossa <a href="https://www.ejetaragua.com/?utm_source=guias&utm_medium=seo&utm_campaign=cta" className="text-primary font-semibold hover:underline">ferramenta de ejeção de água</a> que
             emite ondas sonoras na frequência de 165Hz - a mesma tecnologia do Apple Watch.
           </p>
 
