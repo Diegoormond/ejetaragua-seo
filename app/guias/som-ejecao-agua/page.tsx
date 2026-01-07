@@ -122,7 +122,7 @@ export default function Page() {
               Por Que a Ciência Funciona
             </h2>
             <p className="text-gray-700 leading-relaxed">
-              Ondas sonoras de 165Hz criam vibrações ressonantes na membrana do alto-falante. Essas vibrações rompem a tensão superficial da água, que é mantida por forças moleculares. Quando a tensão se rompe, gotículas de água são expelidas pelos orifícios microscópicos do speaker. É a mesma física que Apple usa no Watch desde 2016, comprovada por engenheiros de áudio em universidades.
+              Ondas sonoras de 165Hz criam vibrações ressonantes na membrana do alto-falante. Essas vibrações rompem a tensão superficial da água, que é mantida por forças moleculares. Quando a tensão se rompe, gotículas de água são expelidas pelos orifícios microscópicos do speaker. É a mesma física que Apple usa no Watch desde 2016, comprovada por engenheiros de áudio em universidades. Veja mais detalhes técnicos no <a href="/guias/water-eject" className="text-primary font-semibold hover:underline">guia completo sobre Water Eject</a>.
             </p>
           </section>
 
