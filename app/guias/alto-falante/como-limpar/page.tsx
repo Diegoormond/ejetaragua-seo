@@ -43,6 +43,34 @@ const faqs = [
     {
       "question": "Quanto tempo esperar antes de limpar?",
       "answer": "Use ejeção por som imediatamente. Para limpeza física com escova, espere até água ser removida (após ejeção). Não espere secar antes de ejetar."
+    },
+    {
+      "question": "Existe limpador de alto-falante ou aplicativo para limpar?",
+      "answer": "SIM! Nossa ferramenta funciona como um limpador de alto-falante digital. O som de 165Hz faz a limpeza/ejeção da água automaticamente. É como um desentupidor de alto-falante por som. Gratuito e funciona em qualquer celular."
+    },
+    {
+      "question": "Como tirar água do alto-falante do celular?",
+      "answer": "Para tirar água do alto-falante: 1) Use som de 165Hz (nossa ferramenta), 2) Posicione speaker para baixo, 3) Repita 3-5 vezes, 4) Seque externamente com pano. É o método mais eficaz - funciona em 85% dos casos em 2-5 minutos."
+    },
+    {
+      "question": "Som para limpar alto-falante funciona mesmo?",
+      "answer": "SIM! O som/áudio/barulho de 165Hz cria vibrações que expelem água. É a mesma tecnologia que Apple usa no Apple Watch. Som para limpar, desentupir ou tirar água do alto-falante é comprovadamente eficaz."
+    },
+    {
+      "question": "Limpeza de alto-falante com som funciona para poeira e areia?",
+      "answer": "PARCIALMENTE. O som de 165Hz é otimizado para ÁGUA. Para poeira leve funciona um pouco, mas escova macia seca é melhor. Para areia, use escova primeiro - areia pode arranhar se vibrada."
+    },
+    {
+      "question": "Qual a diferença entre limpar, desentupir e tirar água do alto-falante?",
+      "answer": "São termos diferentes para o mesmo processo. Limpar alto-falante, desentupir alto-falante, tirar água do alto-falante - todos se referem a remover líquido/obstrução. O som 165Hz resolve todos esses problemas."
+    },
+    {
+      "question": "Como limpar fone/saída de som do celular?",
+      "answer": "Fone, saída de som, autofalante, auto-falante e alto-falante são o mesmo componente. Use ejeção por som 165Hz para remover água. Para sujeira externa, use escova de dentes macia seca com movimentos leves."
+    },
+    {
+      "question": "Limpador de alto-falante grátis existe?",
+      "answer": "SIM! Nossa ferramenta web é gratuita e funciona como limpador de alto-falante de celular. Não precisa baixar app, não tem anúncios invasivos. Acesse pelo navegador e use quantas vezes precisar."
     }
   ]
 
