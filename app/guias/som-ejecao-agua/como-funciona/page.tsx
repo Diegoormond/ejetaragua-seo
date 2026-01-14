@@ -43,6 +43,30 @@ const faqs = [
     {
       "question": "Funciona com outros líquidos?",
       "answer": "Funciona melhor com água. Líquidos viscosos (refrigerante, cerveja) funcionam parcialmente. Álcool (menos tensão superficial) funciona muito bem."
+    },
+    {
+      "question": "Posso usar música/áudio/barulho comum para tirar água?",
+      "answer": "Música comum NÃO funciona bem. Músicas têm múltiplas frequências que se cancelam. O som/áudio/barulho ideal é uma onda senoidal pura de 165Hz - toda energia vai para vibração efetiva."
+    },
+    {
+      "question": "Qual a diferença entre som, áudio e ruído para ejeção?",
+      "answer": "Som, áudio, barulho, ruído, música e toque são termos diferentes para o mesmo princípio: vibração sonora. Para ejetar água, precisa ser frequência específica (165Hz), não qualquer som aleatório."
+    },
+    {
+      "question": "Som de vibração para tirar água funciona?",
+      "answer": "SIM! Na verdade, o som de 165Hz CRIA vibração mecânica no alto-falante. Essa vibração é o que expele a água. Som e vibração trabalham juntos no mesmo mecanismo físico."
+    },
+    {
+      "question": "Quantas vezes devo repetir o som/áudio de ejeção?",
+      "answer": "Recomendamos 3-5 ciclos de 30 segundos cada, com pausas de 10 segundos. Se ainda sair água, repita após 30 minutos. Quanto mais água entrou, mais ciclos podem ser necessários."
+    },
+    {
+      "question": "O zumbido/toque para tirar água é o mesmo que 165Hz?",
+      "answer": "O zumbido característico que você ouve É o som de 165Hz. É uma frequência grave que soa como um zumbido contínuo. Se ouvir esse som, a ferramenta está funcionando corretamente."
+    },
+    {
+      "question": "Som alto para tirar água é melhor?",
+      "answer": "SIM, volume alto (80-100%) é mais eficaz porque cria vibrações mais fortes. Use volume máximo ou próximo do máximo. Não se preocupe - 165Hz no volume máximo é seguro para o speaker."
     }
   ]
 
