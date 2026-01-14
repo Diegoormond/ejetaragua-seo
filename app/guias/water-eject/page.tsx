@@ -41,6 +41,14 @@ const faqs = [
     answer: 'SIM. Embora o recurso nativo seja exclusivo do Apple Watch, o princípio físico (som 165Hz) funciona em QUALQUER celular com alto-falante. Basta reproduzir o som calibrado através do navegador ou app.',
   },
   {
+    question: 'Existe app/aplicativo grátis de Water Eject?',
+    answer: 'SIM! Nossa ferramenta web funciona como um aplicativo gratuito para tirar água do celular. Não precisa instalar nada - basta acessar pelo navegador. Funciona offline após o primeiro acesso. Apps da App Store/Play Store também existem, mas muitos têm anúncios.',
+  },
+  {
+    question: 'Water Remover, Water Ejector e Water Eject são a mesma coisa?',
+    answer: 'SIM. Water Remover, Water Ejector, Water Eject, e variações como "tirador de água" ou "eliminador de agua" são nomes diferentes para a mesma tecnologia: som de 165Hz que expele água do alto-falante.',
+  },
+  {
     question: 'Qual a frequência do Water Eject?',
     answer: 'O Apple Watch usa 165Hz. Esta frequência foi escolhida por criar vibrações ideais para deslocar gotículas de água sem danificar componentes. Frequências muito altas ou baixas são menos eficazes.',
   },
@@ -690,6 +698,22 @@ export default function Page() {
                 </li>
               </ul>
             </div>
+          </section>
+
+          {/* Variações de busca */}
+          <section className="mb-12">
+            <h2 className="text-3xl font-bold text-gray-900 mb-4">Variações Comuns de Busca</h2>
+            <p>
+              Muitas pessoas buscam por variações do termo &quot;Water Eject&quot; devido a erros de digitação ou traduções. Se você chegou aqui buscando por:
+            </p>
+            <ul>
+              <li><strong>Erros de digitação:</strong> watwr eject, water ejct, water ejecy, whater eject, watter eject, watereject, water ejject, water eje, weter eject, water ejetc, water ejec, Walter eject, eater eject</li>
+              <li><strong>Variações em inglês:</strong> water remover, water removal, water ejector, eject water</li>
+              <li><strong>Termos em português:</strong> tirador de água, eliminador de agua, expulsar água, remover líquido</li>
+            </ul>
+            <p className="mt-4">
+              Todas essas buscas se referem à mesma tecnologia: o som de 165Hz que expele água do alto-falante do celular. Não importa como você pesquisou - a solução é a mesma.
+            </p>
           </section>
 
           {/* Links internos */}
