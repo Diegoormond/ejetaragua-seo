@@ -1,4 +1,5 @@
 import { Metadata } from 'next'
+import Link from 'next/link'
 import Breadcrumbs from '@/components/Breadcrumbs'
 import LastUpdated from '@/components/LastUpdated'
 import FAQ from '@/components/FAQ'
@@ -78,7 +79,7 @@ export default function Page() {
   const articleSchema = createArticleSchema({
     title: 'Alto-Falante Molhado: Guia Completo 2026',
     description: 'Celular com som abafado? Guia definitivo: ejeção por 165Hz, limpeza segura, diagnóstico de danos, quando procurar técnico.',
-    url: 'https://www.ejetaragua.com/guias/alto-falante',
+    url: '/guias/alto-falante',
     datePublished: '2026-01-06',
     dateModified: '2026-01-06',
   })
@@ -315,6 +316,51 @@ export default function Page() {
               <li>Limpe alto-falante 1x/mês com escova seca para remover poeira</li>
               <li>Conheça limites de certificação IP (IP68 NÃO = à prova d'água permanente)</li>
             </ul>
+          </section>
+
+          {/* Related Links */}
+          <section className="mb-8">
+            <h2 className="text-3xl font-bold text-gray-900 mb-4">
+              Guias Relacionados de Alto-Falante
+            </h2>
+            <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-4">
+              <Link href="/guias/alto-falante/como-limpar" className="block bg-white border-2 border-gray-200 rounded-lg p-4 hover:border-primary transition">
+                <h3 className="font-bold text-gray-900 mb-2">Como Limpar Alto-Falante</h3>
+                <p className="text-gray-600 text-sm">Métodos seguros de limpeza e o que evitar</p>
+              </Link>
+              <Link href="/guias/alto-falante/som-abafado" className="block bg-white border-2 border-gray-200 rounded-lg p-4 hover:border-primary transition">
+                <h3 className="font-bold text-gray-900 mb-2">Som Abafado</h3>
+                <p className="text-gray-600 text-sm">Diagnóstico e soluções para som abafado</p>
+              </Link>
+              <Link href="/guias/alto-falante/chiado" className="block bg-white border-2 border-gray-200 rounded-lg p-4 hover:border-primary transition">
+                <h3 className="font-bold text-gray-900 mb-2">Chiado no Alto-Falante</h3>
+                <p className="text-gray-600 text-sm">Causas e como resolver chiado</p>
+              </Link>
+              <Link href="/guias/alto-falante/frequencia-ejecao" className="block bg-white border-2 border-gray-200 rounded-lg p-4 hover:border-primary transition">
+                <h3 className="font-bold text-gray-900 mb-2">Frequência de Ejeção</h3>
+                <p className="text-gray-600 text-sm">Por que 165Hz funciona melhor</p>
+              </Link>
+              <Link href="/guias/alto-falante/sem-som" className="block bg-white border-2 border-gray-200 rounded-lg p-4 hover:border-primary transition">
+                <h3 className="font-bold text-gray-900 mb-2">Celular Sem Som</h3>
+                <p className="text-gray-600 text-sm">Quando som para completamente</p>
+              </Link>
+              <Link href="/guias/alto-falante/danificado" className="block bg-white border-2 border-gray-200 rounded-lg p-4 hover:border-primary transition">
+                <h3 className="font-bold text-gray-900 mb-2">Alto-Falante Danificado</h3>
+                <p className="text-gray-600 text-sm">Sinais de dano permanente</p>
+              </Link>
+              <Link href="/guias/som-ejecao-agua" className="block bg-white border-2 border-gray-200 rounded-lg p-4 hover:border-primary transition">
+                <h3 className="font-bold text-gray-900 mb-2">Som de Ejeção: 165Hz</h3>
+                <p className="text-gray-600 text-sm">A ciência por trás do som</p>
+              </Link>
+              <Link href="/guias/iphone/alto-falante-molhado" className="block bg-white border-2 border-gray-200 rounded-lg p-4 hover:border-primary transition">
+                <h3 className="font-bold text-gray-900 mb-2">Alto-Falante iPhone</h3>
+                <p className="text-gray-600 text-sm">Guia específico para iPhone</p>
+              </Link>
+              <Link href="/guias/android/alto-falante-entupido" className="block bg-white border-2 border-gray-200 rounded-lg p-4 hover:border-primary transition">
+                <h3 className="font-bold text-gray-900 mb-2">Alto-Falante Android</h3>
+                <p className="text-gray-600 text-sm">Samsung, Xiaomi, Motorola</p>
+              </Link>
+            </div>
           </section>
         </div>
 
