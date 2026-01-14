@@ -1,8 +1,10 @@
 import { Metadata } from 'next'
+import Link from 'next/link'
 import Breadcrumbs from '@/components/Breadcrumbs'
 import LastUpdated from '@/components/LastUpdated'
 import FAQ from '@/components/FAQ'
 import CTABox from '@/components/CTABox'
+import RelatedLinks from '@/components/RelatedLinks'
 import { createFAQSchema, createArticleSchema, createBreadcrumbSchema } from '@/lib/schemas'
 
 export const metadata: Metadata = {
@@ -58,6 +60,22 @@ const faqs = [
     {
       "question": "Quanto tempo até o som voltar ao normal?",
       "answer": "Com ejeção ativa: 2-5 minutos de melhora visível. Som melhora a cada ciclo. Próximas 2-6 horas: melhora contínua com secagem passiva. 24h: som 80-90% normal. 48h: som completamente normal na maioria dos casos. Esperar vale a pena para resultado máximo."
+    },
+    {
+      "question": "Existe aplicativo/app gratuito para tirar água do celular?",
+      "answer": "SIM! Nossa ferramenta web funciona como um app/aplicativo gratuito. Não precisa instalar - funciona direto no navegador (Chrome, Safari, etc.). Há também apps na Play Store/App Store, mas nossa ferramenta é gratuita, sem anúncios e funciona offline."
+    },
+    {
+      "question": "Site de vibração para tirar água existe?",
+      "answer": "SIM! Nossa ferramenta É um site que produz vibração através do som 165Hz. O speaker do celular vibra e expele a água. Sites de vibração forte/intensa funcionam pelo mesmo princípio - vibração mecânica através de frequências sonoras calibradas."
+    },
+    {
+      "question": "Vibrar celular ajuda a tirar água?",
+      "answer": "A vibração do MOTOR do celular (como quando recebe notificação) NÃO é eficaz. O que funciona é a vibração do ALTO-FALANTE causada pelo som de 165Hz. São sistemas diferentes. Use som de ejeção, não a função vibrar comum."
+    },
+    {
+      "question": "Som/áudio/música/barulho - qual usar para tirar água?",
+      "answer": "Som, áudio, música, barulho, ruído e toque são termos para o mesmo conceito. Para ejetar água, use som de 165Hz puro (onda senoidal). Música comum NÃO funciona bem porque mistura frequências. Use nossa ferramenta que toca o tom puro correto."
     }
   ]
 
@@ -218,6 +236,39 @@ export default function Page() {
             <p className="text-gray-700 leading-relaxed">
               Após voltar da praia ou piscina, mesmo sem molhar, execute 2 ciclos de ejeção como prevenção. Remove umidade residual antes que cause problemas. Especialmente importante se seu celular não tem certificação IP68 ou está envelhecido.
             </p>
+          </section>
+
+          {/* Related Links */}
+          <section className="mb-8">
+            <h2 className="text-3xl font-bold text-gray-900 mb-4">
+              Guias Relacionados
+            </h2>
+            <div className="grid md:grid-cols-2 gap-4">
+              <Link href="/guias/som-ejecao-agua/como-funciona" className="block bg-white border-2 border-gray-200 rounded-lg p-4 hover:border-primary transition">
+                <h3 className="font-bold text-gray-900 mb-2">A Ciência do Som 165Hz</h3>
+                <p className="text-gray-600 text-sm">Entenda como ondas sonoras rompem tensão superficial</p>
+              </Link>
+              <Link href="/guias/som-ejecao-agua/frequencia-ideal" className="block bg-white border-2 border-gray-200 rounded-lg p-4 hover:border-primary transition">
+                <h3 className="font-bold text-gray-900 mb-2">Por Que 165Hz é Ideal</h3>
+                <p className="text-gray-600 text-sm">Comparação com outras frequências</p>
+              </Link>
+              <Link href="/guias/som-ejecao-agua/funciona-mesmo" className="block bg-white border-2 border-gray-200 rounded-lg p-4 hover:border-primary transition">
+                <h3 className="font-bold text-gray-900 mb-2">Funciona Mesmo? É Seguro?</h3>
+                <p className="text-gray-600 text-sm">Comprovação científica e taxas de sucesso</p>
+              </Link>
+              <Link href="/guias/som-ejecao-agua/quantas-vezes" className="block bg-white border-2 border-gray-200 rounded-lg p-4 hover:border-primary transition">
+                <h3 className="font-bold text-gray-900 mb-2">Quantas Vezes Usar</h3>
+                <p className="text-gray-600 text-sm">Ciclos recomendados e limite máximo</p>
+              </Link>
+              <Link href="/guias/water-eject" className="block bg-white border-2 border-gray-200 rounded-lg p-4 hover:border-primary transition">
+                <h3 className="font-bold text-gray-900 mb-2">Water Eject: Guia Completo</h3>
+                <p className="text-gray-600 text-sm">Origem, como usar em iPhone e Android</p>
+              </Link>
+              <Link href="/guias/alto-falante/frequencia-ejecao" className="block bg-white border-2 border-gray-200 rounded-lg p-4 hover:border-primary transition">
+                <h3 className="font-bold text-gray-900 mb-2">Frequência de Ejeção</h3>
+                <p className="text-gray-600 text-sm">Detalhes técnicos sobre frequências</p>
+              </Link>
+            </div>
           </section>
         </div>
 
