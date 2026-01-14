@@ -10,7 +10,10 @@
         "/guias/celular-molhado/quando-ligar",
         "/guias/celular-molhado/primeiros-socorros",
         "/guias/celular-molhado/agua-salgada",
-        "/guias/celular-molhado/assistencia-tecnica"
+        "/guias/celular-molhado/assistencia-tecnica",
+        "/guias/celular-molhado/microfone-abafado",
+        "/guias/celular-molhado/nao-liga",
+        "/guias/celular-molhado/tela-manchada"
       ]
     },
     "iphone": {
@@ -22,7 +25,12 @@
         "/guias/iphone/alto-falante-molhado",
         "/guias/iphone/resistencia-agua",
         "/guias/iphone/garantia-agua",
-        "/guias/iphone/modelos-resistentes"
+        "/guias/iphone/modelos-resistentes",
+        "/guias/iphone/water-eject-atalho",
+        "/guias/iphone/camera-embacada",
+        "/guias/iphone/garantia-apple",
+        "/guias/iphone/ip68-explicado",
+        "/guias/iphone/som-abafado"
       ]
     },
     "android": {
@@ -35,7 +43,13 @@
         "/guias/android/resistencia-agua",
         "/guias/android/samsung-molhado",
         "/guias/android/xiaomi-molhado",
-        "/guias/android/motorola-molhado"
+        "/guias/android/motorola-molhado",
+        "/guias/android/samsung",
+        "/guias/android/xiaomi",
+        "/guias/android/motorola",
+        "/guias/android/usb-c-molhado",
+        "/guias/android/biometria-parou",
+        "/guias/android/touch-fantasma"
       ]
     },
     "alto-falante": {
@@ -46,7 +60,11 @@
         "/guias/alto-falante/som-abafado",
         "/guias/alto-falante/frequencia-ejecao",
         "/guias/alto-falante/danificado",
-        "/guias/alto-falante/prevencao"
+        "/guias/alto-falante/prevencao",
+        "/guias/alto-falante/chiado",
+        "/guias/alto-falante/limpar",
+        "/guias/alto-falante/sem-som",
+        "/guias/alto-falante/stereo"
       ]
     },
     "som-ejecao": {
@@ -56,7 +74,10 @@
         "/guias/som-ejecao-agua/como-funciona",
         "/guias/som-ejecao-agua/frequencia-ideal",
         "/guias/som-ejecao-agua/quantas-vezes",
-        "/guias/som-ejecao-agua/funciona-mesmo"
+        "/guias/som-ejecao-agua/funciona-mesmo",
+        "/guias/som-ejecao-agua/funciona",
+        "/guias/som-ejecao-agua/danifica-speaker",
+        "/guias/water-eject"
       ]
     },
     "prevencao": {
@@ -66,7 +87,9 @@
         "/guias/prevencao/capas-impermeaveis",
         "/guias/prevencao/cuidados-praia",
         "/guias/prevencao/cuidados-piscina",
-        "/guias/prevencao/ip68-explicado"
+        "/guias/prevencao/ip68-explicado",
+        "/guias/prevencao/piscina-cloro",
+        "/guias/prevencao/testes-ip68"
       ]
     },
     "solucoes": {
@@ -76,7 +99,9 @@
         "/guias/solucoes/metodos-caseiros",
         "/guias/solucoes/aspirador-po",
         "/guias/solucoes/alcool-isopropilico",
-        "/guias/solucoes/silica-gel"
+        "/guias/solucoes/silica-gel",
+        "/guias/solucoes/secador-cabelo",
+        "/guias/solucoes/ventilador"
       ]
     },
     "problemas": {
@@ -87,7 +112,12 @@
         "/guias/problemas/som-baixo",
         "/guias/problemas/tela-manchada",
         "/guias/problemas/nao-liga",
-        "/guias/problemas/camera-embacada"
+        "/guias/problemas/camera-embacada",
+        "/guias/problemas/bateria-descarrega-rapido",
+        "/guias/problemas/carregamento-lento",
+        "/guias/problemas/face-id-parou",
+        "/guias/problemas/quanto-custa-consertar",
+        "/guias/problemas/wifi-bluetooth-parou"
       ]
     }
   }
