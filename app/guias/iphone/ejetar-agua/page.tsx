@@ -71,6 +71,34 @@ const faqs = [
     {
       "question": "Quando chamar um técnico se a ejeção não funcionar?",
       "answer": "Após 5-7 tentativas em 24h sem melhora, especialmente se sair vapor ou cheiro de queimado. Também procure técnico se múltiplos problemas aparecerem (câmera + microfone + som)."
+    },
+    {
+      "question": "Como tirar água do iPhone 11, 13, 14 ou 15?",
+      "answer": "O processo é IDÊNTICO para todos os modelos: iPhone 11, 12, 13, 14, 15 e mais antigos. Use som 165Hz, volume máximo, speaker para baixo. A tecnologia funciona em qualquer iPhone com iOS 11+."
+    },
+    {
+      "question": "Existe app/aplicativo para tirar água do iPhone grátis?",
+      "answer": "SIM! Nossa ferramenta web funciona como um app gratuito. Funciona no Safari sem instalar nada. Apps da App Store também existem, mas nossa ferramenta é grátis, sem anúncios e funciona offline."
+    },
+    {
+      "question": "Água no conector/entrada do carregador do iPhone - como tirar?",
+      "answer": "Para água no conector Lightning/USB-C: 1) NÃO tente carregar, 2) Posicione conector para baixo, 3) Use ejeção por som, 4) Deixe secar 24h. O iPhone mostra 'Líquido detectado' até secar. Use carregamento wireless se urgente."
+    },
+    {
+      "question": "Posso usar 'E aí Siri, ejetar água'?",
+      "answer": "SIM, se você configurar o atalho Siri Shortcuts. Não é nativo do iPhone - você precisa criar um atalho personalizado. Veja nosso guia de Water Eject Atalho para tutorial completo."
+    },
+    {
+      "question": "Vibrar iPhone para tirar água funciona?",
+      "answer": "A vibração do motor do iPhone NÃO é eficaz para remover água. O que funciona é a VIBRAÇÃO DO ALTO-FALANTE causada pelo som de 165Hz. São mecanismos diferentes - use o som, não a vibração comum."
+    },
+    {
+      "question": "Secar iPhone - qual o melhor método?",
+      "answer": "Melhor método para secar iPhone: 1) Ejeção por som 165Hz (imediato), 2) Pano seco no exterior, 3) Deixar em local ventilado 24-48h. NUNCA use arroz, secador de cabelo ou forno."
+    },
+    {
+      "question": "Líquido/água no iPhone - o que fazer primeiro?",
+      "answer": "PRIMEIRO: não tente carregar ou usar normalmente. Seque o exterior com pano. SEGUNDO: use ejeção por som 165Hz. TERCEIRO: deixe secar 24h antes de carregar. Quanto mais rápido agir, melhor."
     }
   ]
 
